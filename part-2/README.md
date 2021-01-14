@@ -1,4 +1,3 @@
-# CPSC 223p
 ##  Plotting JSON Data
 
 This exercise is meant to be a trivial plot of time series data from an input JSON file.
