@@ -1,4 +1,3 @@
-# CPSC 223p
 ##  Plotting CSV Data
 This exercise is meant to be a trivial plot of time series data from several CSV files.
 
